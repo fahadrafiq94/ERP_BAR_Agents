@@ -1,0 +1,8 @@
+opencv-python 
+mediapipe
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-classic
+langchain-ollama
